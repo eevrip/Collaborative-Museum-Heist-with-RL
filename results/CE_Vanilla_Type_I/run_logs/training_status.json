@@ -1,0 +1,753 @@
+{
+    "Locksmith": {
+        "checkpoints": [
+            {
+                "steps": 499633,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-499633.onnx",
+                "reward": -1.115833309168617,
+                "creation_time": 1671111434.430184,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-499633.pt"
+                ]
+            },
+            {
+                "steps": 999681,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-999681.onnx",
+                "reward": -0.995599946975708,
+                "creation_time": 1671113587.6225798,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-999681.pt"
+                ]
+            },
+            {
+                "steps": 1499931,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-1499931.onnx",
+                "reward": -0.4509522872311728,
+                "creation_time": 1671115745.0571756,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-1499931.pt"
+                ]
+            },
+            {
+                "steps": 1999673,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-1999673.onnx",
+                "reward": -0.1455356159380504,
+                "creation_time": 1671117929.5174735,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-1999673.pt"
+                ]
+            },
+            {
+                "steps": 2499939,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-2499939.onnx",
+                "reward": -0.12062490358948708,
+                "creation_time": 1671120114.1822066,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-2499939.pt"
+                ]
+            },
+            {
+                "steps": 2999923,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-2999923.onnx",
+                "reward": 0.21000013181141444,
+                "creation_time": 1671122296.9350898,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-2999923.pt"
+                ]
+            },
+            {
+                "steps": 3499693,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-3499693.onnx",
+                "reward": -0.1765998899936676,
+                "creation_time": 1671124473.8752484,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-3499693.pt"
+                ]
+            },
+            {
+                "steps": 3999897,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-3999897.onnx",
+                "reward": 0.2606251426041126,
+                "creation_time": 1671126673.8755372,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-3999897.pt"
+                ]
+            },
+            {
+                "steps": 4499868,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-4499868.onnx",
+                "reward": 0.20203344027201334,
+                "creation_time": 1671128861.0510566,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-4499868.pt"
+                ]
+            },
+            {
+                "steps": 4999885,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-4999885.onnx",
+                "reward": 0.5019801447788874,
+                "creation_time": 1671131044.700201,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-4999885.pt"
+                ]
+            },
+            {
+                "steps": 5499849,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-5499849.onnx",
+                "reward": 0.44882083247447835,
+                "creation_time": 1671133238.2166169,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-5499849.pt"
+                ]
+            },
+            {
+                "steps": 5999812,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-5999812.onnx",
+                "reward": 0.3236527333134099,
+                "creation_time": 1671135424.3762603,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-5999812.pt"
+                ]
+            },
+            {
+                "steps": 6499611,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-6499611.onnx",
+                "reward": 0.571177037862631,
+                "creation_time": 1671137615.8489616,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-6499611.pt"
+                ]
+            },
+            {
+                "steps": 6999778,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-6999778.onnx",
+                "reward": 0.40968767553567886,
+                "creation_time": 1671139804.9230487,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-6999778.pt"
+                ]
+            },
+            {
+                "steps": 7499995,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-7499995.onnx",
+                "reward": 0.5667500893274943,
+                "creation_time": 1671142013.4062824,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-7499995.pt"
+                ]
+            },
+            {
+                "steps": 7999700,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-7999700.onnx",
+                "reward": 0.6641549631472556,
+                "creation_time": 1671144193.6164894,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-7999700.pt"
+                ]
+            },
+            {
+                "steps": 8499851,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-8499851.onnx",
+                "reward": 0.5901770408336933,
+                "creation_time": 1671146380.5755398,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-8499851.pt"
+                ]
+            },
+            {
+                "steps": 8999589,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-8999589.onnx",
+                "reward": 0.7563501328229905,
+                "creation_time": 1671148567.4816499,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-8999589.pt"
+                ]
+            },
+            {
+                "steps": 9499791,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-9499791.onnx",
+                "reward": 0.6208155011901488,
+                "creation_time": 1671150757.7781053,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-9499791.pt"
+                ]
+            },
+            {
+                "steps": 9999800,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-9999800.onnx",
+                "reward": 0.40805014967918396,
+                "creation_time": 1671152956.9354134,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-9999800.pt"
+                ]
+            },
+            {
+                "steps": 10499645,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-10499645.onnx",
+                "reward": 0.5064853297339545,
+                "creation_time": 1671155150.4580219,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-10499645.pt"
+                ]
+            },
+            {
+                "steps": 10999910,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-10999910.onnx",
+                "reward": 0.6341956108808517,
+                "creation_time": 1671157335.4977946,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-10999910.pt"
+                ]
+            },
+            {
+                "steps": 11499642,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-11499642.onnx",
+                "reward": 0.7681150943040848,
+                "creation_time": 1671159529.6832824,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-11499642.pt"
+                ]
+            },
+            {
+                "steps": 11999707,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-11999707.onnx",
+                "reward": 0.7142250910401344,
+                "creation_time": 1671161730.2124836,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-11999707.pt"
+                ]
+            },
+            {
+                "steps": 12499951,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-12499951.onnx",
+                "reward": 0.42816686630249023,
+                "creation_time": 1671163914.9346237,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-12499951.pt"
+                ]
+            },
+            {
+                "steps": 12999793,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-12999793.onnx",
+                "reward": 0.6923625823110342,
+                "creation_time": 1671166102.587551,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-12999793.pt"
+                ]
+            },
+            {
+                "steps": 13499709,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-13499709.onnx",
+                "reward": 0.6128546487201344,
+                "creation_time": 1671168306.2702198,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-13499709.pt"
+                ]
+            },
+            {
+                "steps": 13999979,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-13999979.onnx",
+                "reward": 0.5113601207733154,
+                "creation_time": 1671170495.202714,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-13999979.pt"
+                ]
+            },
+            {
+                "steps": 14499945,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-14499945.onnx",
+                "reward": 0.670358782184535,
+                "creation_time": 1671172682.304538,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-14499945.pt"
+                ]
+            },
+            {
+                "steps": 14999836,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-14999836.onnx",
+                "reward": 0.7134286874816531,
+                "creation_time": 1671174871.3111436,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-14999836.pt"
+                ]
+            },
+            {
+                "steps": 15499992,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-15499992.onnx",
+                "reward": 0.8096819547089663,
+                "creation_time": 1671177069.8625193,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-15499992.pt"
+                ]
+            },
+            {
+                "steps": 15999949,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-15999949.onnx",
+                "reward": 0.835000216960907,
+                "creation_time": 1671179267.8625207,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-15999949.pt"
+                ]
+            },
+            {
+                "steps": 16499931,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-16499931.onnx",
+                "reward": 1.0055063664913177,
+                "creation_time": 1671181463.2333193,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-16499931.pt"
+                ]
+            },
+            {
+                "steps": 16999770,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-16999770.onnx",
+                "reward": 1.1730468302965165,
+                "creation_time": 1671183666.7730126,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-16999770.pt"
+                ]
+            },
+            {
+                "steps": 17499764,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-17499764.onnx",
+                "reward": 1.2896889878643885,
+                "creation_time": 1671185868.0508816,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-17499764.pt"
+                ]
+            },
+            {
+                "steps": 17999878,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-17999878.onnx",
+                "reward": 0.7317668000857035,
+                "creation_time": 1671188065.277789,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-17999878.pt"
+                ]
+            },
+            {
+                "steps": 18499843,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-18499843.onnx",
+                "reward": 1.1777668153798138,
+                "creation_time": 1671190247.9360049,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-18499843.pt"
+                ]
+            },
+            {
+                "steps": 18999567,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-18999567.onnx",
+                "reward": 0.7018134693304697,
+                "creation_time": 1671192432.5143158,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-18999567.pt"
+                ]
+            },
+            {
+                "steps": 19499904,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-19499904.onnx",
+                "reward": 1.0370751122633617,
+                "creation_time": 1671194628.5170262,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-19499904.pt"
+                ]
+            },
+            {
+                "steps": 19576255,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-19576255.onnx",
+                "reward": 1.140074047057525,
+                "creation_time": 1671194972.916615,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-19576255.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 19576255,
+            "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith.onnx",
+            "reward": 1.140074047057525,
+            "creation_time": 1671194972.916615,
+            "auxillary_file_paths": [
+                "results\\CE_NoCurr_15_12_c=200_g=100_att1\\Locksmith\\Locksmith-19576255.pt"
+            ]
+        }
+    },
+    "TechGuy": {
+        "checkpoints": [
+            {
+                "steps": 499633,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-499633.onnx",
+                "reward": -1.1283333090444405,
+                "creation_time": 1671111434.9546297,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-499633.pt"
+                ]
+            },
+            {
+                "steps": 999681,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-999681.onnx",
+                "reward": -1.0435999393463136,
+                "creation_time": 1671113588.036038,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-999681.pt"
+                ]
+            },
+            {
+                "steps": 1499931,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-1499931.onnx",
+                "reward": -0.8223809202512106,
+                "creation_time": 1671115745.5336967,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-1499931.pt"
+                ]
+            },
+            {
+                "steps": 1999673,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-1999673.onnx",
+                "reward": -0.5098213702440262,
+                "creation_time": 1671117929.896304,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-1999673.pt"
+                ]
+            },
+            {
+                "steps": 2499939,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-2499939.onnx",
+                "reward": -0.6456249207258224,
+                "creation_time": 1671120114.5310934,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-2499939.pt"
+                ]
+            },
+            {
+                "steps": 2999923,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-2999923.onnx",
+                "reward": -0.33589278161525726,
+                "creation_time": 1671122297.2834473,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-2999923.pt"
+                ]
+            },
+            {
+                "steps": 3499693,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-3499693.onnx",
+                "reward": -0.660227201201699,
+                "creation_time": 1671124474.324981,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-3499693.pt"
+                ]
+            },
+            {
+                "steps": 3999897,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-3999897.onnx",
+                "reward": -0.19312487542629242,
+                "creation_time": 1671126674.337498,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-3999897.pt"
+                ]
+            },
+            {
+                "steps": 4499868,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-4499868.onnx",
+                "reward": -0.18416652083396912,
+                "creation_time": 1671128861.4841843,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-4499868.pt"
+                ]
+            },
+            {
+                "steps": 4999885,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-4999885.onnx",
+                "reward": 0.033750109871228534,
+                "creation_time": 1671131048.1381423,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-4999885.pt"
+                ]
+            },
+            {
+                "steps": 5499849,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-5499849.onnx",
+                "reward": -0.10732747717150326,
+                "creation_time": 1671133238.6082187,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-5499849.pt"
+                ]
+            },
+            {
+                "steps": 5999812,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-5999812.onnx",
+                "reward": -0.18552624316591965,
+                "creation_time": 1671135424.741441,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-5999812.pt"
+                ]
+            },
+            {
+                "steps": 6499611,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-6499611.onnx",
+                "reward": -0.03923068596766545,
+                "creation_time": 1671137616.255186,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-6499611.pt"
+                ]
+            },
+            {
+                "steps": 6999778,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-6999778.onnx",
+                "reward": 0.10968762449920177,
+                "creation_time": 1671139805.4283643,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-6999778.pt"
+                ]
+            },
+            {
+                "steps": 7499995,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-7499995.onnx",
+                "reward": 0.003750090797742208,
+                "creation_time": 1671142013.8020282,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-7499995.pt"
+                ]
+            },
+            {
+                "steps": 7999700,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-7999700.onnx",
+                "reward": 0.053306552671617075,
+                "creation_time": 1671144197.234915,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-7999700.pt"
+                ]
+            },
+            {
+                "steps": 8499851,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-8499851.onnx",
+                "reward": 0.10894241986366418,
+                "creation_time": 1671146381.0091114,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-8499851.pt"
+                ]
+            },
+            {
+                "steps": 8999589,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-8999589.onnx",
+                "reward": 0.2558751106262207,
+                "creation_time": 1671148567.9463294,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-8999589.pt"
+                ]
+            },
+            {
+                "steps": 9499791,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-9499791.onnx",
+                "reward": 0.19038471923424646,
+                "creation_time": 1671150758.1956687,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-9499791.pt"
+                ]
+            },
+            {
+                "steps": 9999800,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-9999800.onnx",
+                "reward": 0.01250004768371582,
+                "creation_time": 1671152957.3000922,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-9999800.pt"
+                ]
+            },
+            {
+                "steps": 10499645,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-10499645.onnx",
+                "reward": 0.15518528002279777,
+                "creation_time": 1671155150.8831153,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-10499645.pt"
+                ]
+            },
+            {
+                "steps": 10999910,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-10999910.onnx",
+                "reward": 0.27431829273700714,
+                "creation_time": 1671157335.9081426,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-10999910.pt"
+                ]
+            },
+            {
+                "steps": 11499642,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-11499642.onnx",
+                "reward": 0.5003951206803322,
+                "creation_time": 1671159530.1372852,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-11499642.pt"
+                ]
+            },
+            {
+                "steps": 11999707,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-11999707.onnx",
+                "reward": 0.26343759149312973,
+                "creation_time": 1671161730.6774366,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-11999707.pt"
+                ]
+            },
+            {
+                "steps": 12499951,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-12499951.onnx",
+                "reward": 0.07916681965192159,
+                "creation_time": 1671163915.2863152,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-12499951.pt"
+                ]
+            },
+            {
+                "steps": 12999793,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-12999793.onnx",
+                "reward": 0.3885938562452793,
+                "creation_time": 1671166102.938192,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-12999793.pt"
+                ]
+            },
+            {
+                "steps": 13499709,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-13499709.onnx",
+                "reward": 0.36431832205165515,
+                "creation_time": 1671168306.699754,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-13499709.pt"
+                ]
+            },
+            {
+                "steps": 13999979,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-13999979.onnx",
+                "reward": 0.2155001640319824,
+                "creation_time": 1671170495.5576892,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-13999979.pt"
+                ]
+            },
+            {
+                "steps": 14499945,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-14499945.onnx",
+                "reward": 0.35500701542558344,
+                "creation_time": 1671172682.7261062,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-14499945.pt"
+                ]
+            },
+            {
+                "steps": 14999836,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-14999836.onnx",
+                "reward": 0.36954298331623986,
+                "creation_time": 1671174871.666986,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-14999836.pt"
+                ]
+            },
+            {
+                "steps": 15499992,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-15499992.onnx",
+                "reward": 0.6000092110850594,
+                "creation_time": 1671177070.3882053,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-15499992.pt"
+                ]
+            },
+            {
+                "steps": 15999949,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-15999949.onnx",
+                "reward": 0.835000216960907,
+                "creation_time": 1671179268.2431443,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-15999949.pt"
+                ]
+            },
+            {
+                "steps": 16499931,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-16499931.onnx",
+                "reward": 0.7531313542276621,
+                "creation_time": 1671181463.5812237,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-16499931.pt"
+                ]
+            },
+            {
+                "steps": 16999770,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-16999770.onnx",
+                "reward": 0.9161467989285786,
+                "creation_time": 1671183667.1354015,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-16999770.pt"
+                ]
+            },
+            {
+                "steps": 17499764,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-17499764.onnx",
+                "reward": 1.1222889688279893,
+                "creation_time": 1671185868.408515,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-17499764.pt"
+                ]
+            },
+            {
+                "steps": 17999878,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-17999878.onnx",
+                "reward": 0.061666786670684814,
+                "creation_time": 1671188065.675406,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-17999878.pt"
+                ]
+            },
+            {
+                "steps": 18499843,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-18499843.onnx",
+                "reward": 0.8283112435429184,
+                "creation_time": 1671190248.319935,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-18499843.pt"
+                ]
+            },
+            {
+                "steps": 18999567,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-18999567.onnx",
+                "reward": 0.4385334630807241,
+                "creation_time": 1671192432.9149053,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-18999567.pt"
+                ]
+            },
+            {
+                "steps": 19499904,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-19499904.onnx",
+                "reward": 0.8743250916401545,
+                "creation_time": 1671194628.948703,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-19499904.pt"
+                ]
+            },
+            {
+                "steps": 19576255,
+                "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-19576255.onnx",
+                "reward": 0.7930522936841716,
+                "creation_time": 1671194973.260375,
+                "auxillary_file_paths": [
+                    "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-19576255.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 19576255,
+            "file_path": "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy.onnx",
+            "reward": 0.7930522936841716,
+            "creation_time": 1671194973.260375,
+            "auxillary_file_paths": [
+                "results\\CE_NoCurr_15_12_c=200_g=100_att1\\TechGuy\\TechGuy-19576255.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
