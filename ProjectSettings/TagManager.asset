@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Robber
+  - OutsideCamera
+  - Inside Camera
+  - Environment Manager
+  - Guard
+  - Security Camera
+  - Gate
+  - Light Switch
+  - Valuable
+  - Tech Guy
+  - Locksmith
+  - Security Room
+  - Alarm
+  - Mesh
+  - Laser
+  - Wall
+  - GateMesh
+  - Controller
+  - Museum
+  - Goal
+  - RobberMesh
+  - SecCameraFOV
+  - GuardMesh
+  - GroupRobbers
+  - Room 1
+  - Room 2
+  - Room 3
+  - Room 4
+  - StartRegion
+  - GateClosed
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Robber
+  - Water
+  - UI
+  - Tech
+  - LockSmith
+  - Gate
+  - Goal
+  - Ground
+  - FOVSecurityCamera
+  - Valuable
+  - RobberMesh
+  - GuardMesh
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
