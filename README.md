@@ -1,6 +1,8 @@
 # Collaborative-Museum-Heist-with-RL
 This project uses Unity version 2020.3.27f1 and the ML-Agents 19 Package.
 
+ML-Agents Toolkit: https://github.com/Unity-Technologies/ml-agents
+
 To see results:
 1. Open the scene Scenes/Complex Environment/CE_Group_Training_Scene in Unity and hit play. 
 2. To asign different policy, add a policy from the folder Brain_CE to the agents. The option to change the policy of TechGuy and Locksmith is in the Editor in the gameobject Robbers>TechGuy>RobberAgent and Robbers>Locksmith>RobberAgent respectively under the section Model.
