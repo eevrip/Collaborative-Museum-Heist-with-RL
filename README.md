@@ -13,5 +13,6 @@ To train agents:
 3. Read file CreateEnvironment.pdf to create a virtual environment and train agents. Use the correct configuration files. For example if you want to train agents using the curriculum II method, add the prefabs "curr II" in the scene, and use the configuration "config/CurrII.yaml". 
 
 
+Free assets from Unity Asset Store: https://assetstore.unity.com/packages/3d/environments/polytex-home-168285
 
 
