@@ -1,6 +1,6 @@
 **Collaborative Museum Heist with Reinforcement Learning**
 ===========================================================
-**<p style="text-align: center;">Eleni Evripidou, Andreas Aristidou, Panayiotis Charalambous</p>**
+**<p align ="center">Eleni Evripidou, Andreas Aristidou, Panayiotis Charalambous</p>**
 
 36th International Conference on Computer Animation & Social Agents 2023 (CASA 2023)
 
