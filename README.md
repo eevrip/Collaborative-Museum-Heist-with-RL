@@ -3,7 +3,7 @@
 **Eleni Evripidou, Andreas Aristidou, Panayiotis Charalambous**
 
 36th International Conference on Computer Animation & Social Agents 2023 (CASA 2023)
-------------------------------------------------------------------------------------
+
 **DOI:** https://doi.org/10.1002/cav.2158
 
 **Video:** https://www.youtube.com/watch?v=-yjui8z7JCw&ab_channel=EleniEvripidou
