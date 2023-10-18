@@ -319,7 +319,7 @@ public class GroupController_CE : MonoBehaviour
 
 
         }
-        PrintData(dataBool, dataInt);
+       // PrintData(dataBool, dataInt);
         ResetScene();
     }
     public void EndRobberEpisode()
